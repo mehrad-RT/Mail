@@ -87,7 +87,7 @@ python manage.py runserver
 - **User-Friendly Interface**: Intuitive navigation and clean design
 
 ## License 📝
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) for details.
 
 ---
 Built by Mehrad-RT as part of the CS50 Web Programming course.
